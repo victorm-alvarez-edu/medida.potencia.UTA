@@ -25,25 +25,25 @@ A seguir móstranse fotografías dos equipos montados, así como de detalle e de
 
 ![Medidores potencia UTA I](https://user-images.githubusercontent.com/26594148/126037025-fbe8ddc8-64d6-4a26-94b8-a4f0a282db86.jpeg)
 **Conxunto de medidores empregados polos alumnos**
-
+\
 
 
 
 ![Medidor potencia UTA Detalle exterior I](https://user-images.githubusercontent.com/26594148/126037079-42ff3bb5-bb1c-406d-af93-c414d0afa02b.jpeg)
 **Unidade de medición de parámetros de aire (detalle exterior da caixa, xunto cos sensores DHT11)**
-
+\
 
 
 
 ![Medidor potencia UTA Detalle interior II](https://user-images.githubusercontent.com/26594148/126037104-115596d4-0072-4ffc-9a07-b2ccf03f96f4.jpeg)
 **Unidade de medición de parámetros de aire (detalle interior do conexionado cos sensores e coa pantalla LCD 16x2)**
-
+\
 
 
 
 ![Medidor potencia UTA en funcioamento I](https://user-images.githubusercontent.com/26594148/126037203-c0edcca1-3a9c-4bdf-baa1-7ff0820aa2fa.jpeg)
 **Unidade de medición de parámetros de aire (detalle exterior da unidade en funcionamento)**
-
+\
 
 
 
